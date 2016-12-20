@@ -1,3 +1,7 @@
 # setupLinux
 
-this shell script will install a web env for php, symfony , composer and mysql-server
+this shell script will install a web enviroment
+##php
+##symfony
+##composer
+##mysql-server
