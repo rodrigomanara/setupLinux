@@ -2,7 +2,6 @@
 ### command line
 
 sudo apt-get install apache2
-sudo apt-get install libapache2-mod-php5
 sudo apt-get install php ## php7
 
 sudo apt-get install mysql-server
