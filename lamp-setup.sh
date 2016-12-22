@@ -2,7 +2,7 @@
 ### command line
 sudo apt-get install apache2
 ##php
-sudo apt-get install php ## php7
+sudo apt-get install php libapache2-mod-php7.0
 ##mysql
 sudo apt-get install mysql-server
 ## install curl , git
